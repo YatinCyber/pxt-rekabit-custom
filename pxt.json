@@ -5,10 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3",
-        "pxt-rekabit": "github:yatincyber/pxt-rekabit-custom#9f9dc0fe4b29f7739490d7f514f664650e3bc6f8"
+        "microphone": "*"
     },
     "files": [
         "README.md",
@@ -16,7 +13,6 @@
         "main.ts",
         "power.ts",
         "motor.ts",
-        "rgb.ts",
         "_locales/zh-CN/pxt-rekabit-strings.json",
         "_locales/ja/pxt-rekabit-strings.json"
     ],
