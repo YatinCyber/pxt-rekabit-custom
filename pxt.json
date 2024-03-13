@@ -7,7 +7,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3",
+        "pxt-rekabit": "github:YatinCyber/pxt-rekabit-custom#d1864c34a880bb18d371a4eb6647b5f79365c513"
     },
     "files": [
         "README.md",
@@ -23,6 +24,10 @@
         "test.ts"
     ],
     "public": true,
+    "targetVersions": {
+        "target": "6.0.25",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
     ],
