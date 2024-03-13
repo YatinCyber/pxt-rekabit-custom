@@ -8,7 +8,7 @@
         "radio": "*",
         "microphone": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.7.3",
-        "pxt-rekabit": "github:YatinCyber/pxt-rekabit-custom#d1864c34a880bb18d371a4eb6647b5f79365c513"
+        "pxt-rekabit": "github:yatincyber/pxt-rekabit-custom#9f9dc0fe4b29f7739490d7f514f664650e3bc6f8"
     },
     "files": [
         "README.md",
