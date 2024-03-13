@@ -1,0 +1,30 @@
+{
+    "name": "pxt-rekabit",
+    "version": "1.2.3",
+    "description": "MakeCode Package for Cytron REKA:BIT",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "power.ts",
+        "motor.ts",
+        "rgb.ts",
+        "_locales/zh-CN/pxt-rekabit-strings.json",
+        "_locales/ja/pxt-rekabit-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
